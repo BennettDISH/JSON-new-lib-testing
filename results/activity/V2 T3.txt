@@ -1,0 +1,14 @@
+THIS TEST WAS DONE WHERE I LEFT THE CONTENT REASON BLANK, IT CHOSE TO MAKE IT ABOUT EXERSISE
+
+{
+  "type": "text-block",
+  "heading": "Benefits of Regular Exercise",
+  "content": [
+    "Regular exercise has numerous benefits for both physical and mental health.",
+    "Firstly, it can reduce the risk of chronic diseases such as heart disease, type 2 diabetes, and certain types of cancer.",
+    "Exercise also helps to maintain a healthy weight and reduce the risk of obesity, which is a major risk factor for many health problems.",
+    "In addition to physical benefits, exercise can also improve mood and reduce symptoms of anxiety and depression.",
+    "It can also improve cognitive function and reduce the risk of cognitive decline as we age.",
+    "Overall, incorporating regular exercise into your routine can have a significant positive impact on your health and wellbeing."
+  ]
+}

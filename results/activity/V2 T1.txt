@@ -1,0 +1,16 @@
+{
+  "type": "text-grid",
+  "heading": "What Makes a Cool Guy?",
+  "content": [
+    "Confidence: A cool guy exudes confidence in everything he does, from the way he walks to the way he talks.",
+    "Sense of Humor: A cool guy knows how to make people laugh and doesn't take himself too seriously.",
+    "Passion: A cool guy is passionate about something, whether it's a hobby, career, or cause.",
+    "Style: A cool guy has his own sense of style and isn't afraid to express himself through fashion.",
+    "Kindness: A cool guy is kind and respectful to everyone he meets, regardless of their background or status.",
+    "Adventurous: A cool guy is always up for trying new things and stepping outside of his comfort zone.",
+    "Intelligence: A cool guy is smart and knowledgeable, and always eager to learn more.",
+    "Loyalty: A cool guy is loyal to his friends and loved ones, and will always have their back no matter what.",
+    "Authenticity: A cool guy is true to himself and doesn't try to be someone he's not.",
+    "Ambition: A cool guy has goals and is driven to succeed, but never at the expense of others."
+  ]
+}

@@ -1,0 +1,56 @@
+const activities = [
+  {
+    "type": "content-heading",
+    "heading": "The Lord of the Rings Trilogy",
+    "content": [
+      "The Lord of the Rings is a high fantasy epic novel written by J.R.R. Tolkien."
+    ]
+  },
+  {
+    "type": "text-grid",
+    "heading": "Characters",
+    "content": [
+      "Frodo Baggins",
+      "Gandalf the Grey",
+      "Aragorn",
+      "Legolas",
+      "Gimli",
+      "Boromir"
+    ]
+  },
+  {
+    "type": "text-block",
+    "heading": "Plot Summary",
+    "content": [
+      "The Lord of the Rings is the story of a hobbit named Frodo Baggins who is given the task of destroying the One Ring, an evil artifact created by the dark lord Sauron to control the world.",
+      "Frodo is accompanied on his journey by a fellowship of characters, including the wizard Gandalf, the human Aragorn, and the elf Legolas.",
+      "The journey takes them through Middle-earth, where they encounter many dangers and obstacles along the way.",
+      "In the end, Frodo and his companions are able to destroy the One Ring and defeat Sauron, but not without great sacrifice and loss."
+    ]
+  },
+  {
+    "type": "content-heading",
+    "heading": "Themes",
+    "content": [
+      "The Lord of the Rings explores themes of power, corruption, heroism, and the struggle between good and evil.",
+      "It also delves into the nature of temptation, sacrifice, and the importance of friendship and loyalty in times of great adversity."
+    ]
+  },
+  {
+    "type": "text-block",
+    "heading": "Influences",
+    "content": [
+      "Tolkien was influenced by many different sources when he wrote The Lord of the Rings, including Norse mythology, epic poetry, and his own experiences in World War I.",
+      "He also drew inspiration from his love of language, and created several different languages for the various races and cultures in Middle-earth."
+    ]
+  },
+  {
+    "type": "text-grid",
+    "heading": "Adaptations",
+    "content": [
+      "The Lord of the Rings has been adapted into several different formats, including a highly successful film trilogy directed by Peter Jackson.",
+      "The books have also been adapted into a popular video game series, and a stage production.",
+      "Despite the many adaptations, the books themselves remain beloved classics of the fantasy genre."
+    ]
+  }
+];

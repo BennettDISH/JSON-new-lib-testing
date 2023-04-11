@@ -1,0 +1,65 @@
+const activities = [
+  {
+    "type": "text-grid",
+    "heading": "Healthy Food Facts",
+    "content": [
+      "Broccoli is packed with vitamins A, C, and K, as well as fiber and other nutrients.",
+      "Salmon is an excellent source of omega-3 fatty acids, which are good for your heart and brain.",
+      "Blueberries are loaded with antioxidants, which can help protect your cells from damage.",
+      "Spinach is a great source of iron, calcium, and vitamins A and C.",
+      "Avocados are high in healthy fats and fiber, and can help lower your risk of heart disease."
+    ]
+  },
+  {
+    "type": "text-block",
+    "heading": "Superfoods for Health",
+    "content": [
+      "Some of the best superfoods for your health include:",
+      "Berries (especially blueberries, raspberries, and strawberries)",
+      "Dark leafy greens (such as kale, spinach, and collard greens)",
+      "Nuts and seeds (including almonds, walnuts, chia seeds, and flaxseeds)",
+      "Fatty fish (like salmon and sardines)",
+      "Whole grains (such as brown rice, quinoa, and oats)",
+      "Beans and legumes (including lentils, chickpeas, and black beans)",
+      "Yogurt and kefir (which contain probiotics for gut health)",
+      "Turmeric (a spice with anti-inflammatory properties)",
+      "Green tea (which is rich in antioxidants)",
+      "Mushrooms (which contain immune-boosting compounds)"
+    ]
+  },
+  {
+    "type": "content-heading",
+    "heading": "Eating for Health",
+    "content": [
+      "Eating a diet rich in whole, nutrient-dense foods can help reduce your risk of chronic diseases like diabetes, heart disease, and cancer.",
+      "It's important to eat a variety of foods from each food group, including fruits, vegetables, whole grains, lean proteins, and healthy fats.",
+      "Try to limit your intake of processed and packaged foods, which tend to be high in sodium, sugar, and unhealthy fats.",
+      "Drinking plenty of water and staying hydrated is also key to good health."
+    ]
+  },
+  {
+    "type": "text-grid",
+    "heading": "Healthy Meal Ideas",
+    "content": [
+      "Here are some healthy meal ideas to get you started:",
+      "Breakfast: Greek yogurt with berries and granola",
+      "Snack: Apple slices with almond butter",
+      "Lunch: Grilled chicken salad with mixed greens, avocado, and quinoa",
+      "Snack: Carrots and hummus",
+      "Dinner: Baked salmon with roasted vegetables and brown rice",
+      "Dessert: Dark chocolate dipped strawberries"
+    ]
+  },
+  {
+    "type": "text-block",
+    "heading": "Healthy Cooking Tips",
+    "content": [
+      "To make your meals even healthier, try these cooking tips:",
+      "Use olive oil or avocado oil instead of butter or vegetable oil",
+      "Roast or grill your vegetables instead of frying them",
+      "Choose lean proteins like chicken or fish instead of red meat",
+      "Swap out refined grains (like white bread or pasta) for whole grains (like whole wheat bread or quinoa)",
+      "Use herbs and spices instead of salt to flavor your meals"
+    ]
+  }
+];

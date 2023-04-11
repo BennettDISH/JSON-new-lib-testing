@@ -1,0 +1,16 @@
+{
+  "type": "text-grid",
+  "heading": "What Makes a Cool Character?",
+  "content": [
+    "Their unique personality and traits",
+    "Their ability to overcome challenges",
+    "Their strength and skill in battle",
+    "Their sense of humor and wit",
+    "Their mysterious past or hidden agenda",
+    "Their loyalty to their friends and allies",
+    "Their willingness to take risks",
+    "Their confidence and swagger",
+    "Their charisma and charm",
+    "Their iconic look or outfit"
+  ]
+}

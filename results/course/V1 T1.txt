@@ -1,0 +1,56 @@
+const activities = [
+  {
+    "type": "text-block",
+    "heading": "The Lord of the Rings",
+    "content": [
+      "The Lord of the Rings is an epic high-fantasy novel by J.R.R. Tolkien, published in 1954 and 1955.", 
+      "The story follows hobbit Frodo Baggins as he and a Fellowship embark on a quest to destroy the One Ring, which was created by the dark lord Sauron to conquer Middle-earth.", 
+      "The Lord of the Rings has been adapted into various media, including films, video games, and stage productions."
+    ]
+  },
+  {
+    "type": "text-grid",
+    "heading": "Characters",
+    "content": [
+      "Frodo Baggins: The ring-bearer and protagonist of the story.", 
+      "Gandalf: A wizard and mentor to Frodo.", 
+      "Aragorn: A ranger who is later revealed to be the rightful king of Gondor.",
+      "Legolas: An elf from Mirkwood.",
+      "Gimli: A dwarf from the Lonely Mountain.",
+      "Boromir: A member of the Fellowship from Gondor.",
+      "Samwise Gamgee: Frodo's loyal hobbit friend and companion.",
+      "Meriadoc Brandybuck: A hobbit of the Shire.",
+      "Peregrin Took: A hobbit of the Shire."
+    ]
+  },
+  {
+    "type": "content-heading",
+    "heading": "Middle-earth",
+    "content": [
+      "Middle-earth is the fictional setting of The Lord of the Rings.", 
+      "It is a vast continent that is inhabited by various races, including humans, elves, dwarves, hobbits, orcs, and trolls.",
+      "The geography of Middle-earth includes mountain ranges, rivers, forests, and deserts."
+    ]
+  },
+  {
+    "type": "text-block",
+    "heading": "The One Ring",
+    "content": [
+      "The One Ring is the central plot device of The Lord of the Rings.",
+      "It was created by the dark lord Sauron in order to control the other rings of power and conquer Middle-earth.",
+      "The One Ring has the power to make its wearer invisible, but it also corrupts those who possess it.",
+      "The ring can only be destroyed by throwing it into the fires of Mount Doom in the land of Mordor."
+    ]
+  },
+  {
+    "type": "text-grid",
+    "heading": "Themes",
+    "content": [
+      "Good vs. Evil",
+      "The corrupting influence of power",
+      "The importance of friendship and loyalty",
+      "The inevitability of change and loss",
+      "The value of perseverance and courage"
+    ]
+  }
+];

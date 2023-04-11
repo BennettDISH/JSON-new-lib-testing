@@ -1,0 +1,21 @@
+{
+  "type": "text-grid",
+  "heading": "What Makes a Character Cool",
+  "content": [
+    {
+      "fact": "They have a unique skill or ability that sets them apart from others."
+    },
+    {
+      "fact": "They have a strong moral code or a clear sense of purpose."
+    },
+    {
+      "fact": "They have a mysterious or enigmatic quality that keeps others intrigued."
+    },
+    {
+      "fact": "They have a sense of humor or a lightheartedness that balances out their seriousness."
+    },
+    {
+      "fact": "They have a compelling backstory or a tragic past that makes them more relatable."
+    }
+  ]
+}

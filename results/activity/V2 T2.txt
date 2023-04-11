@@ -1,0 +1,10 @@
+{
+  "type": "content-heading",
+  "heading": "Why AI is so cool",
+  "content": [
+    "Artificial intelligence (AI) is a field of computer science that focuses on creating machines that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. The ability of machines to learn from data, improve over time, and make predictions has the potential to revolutionize many industries, from healthcare and finance to transportation and entertainment.",
+    "AI can help us solve some of the biggest challenges facing humanity, such as climate change, poverty, and disease. By analyzing large amounts of data and identifying patterns and trends, AI can help us make better decisions and take actions that have a positive impact on society.",
+    "AI is also driving innovation and creating new opportunities for businesses and individuals alike. From chatbots and virtual assistants to autonomous vehicles and smart homes, AI-powered technologies are transforming the way we live and work.",
+    "In short, AI is cool because it has the power to change the world for the better, and we're only scratching the surface of what it can do."
+  ]
+}

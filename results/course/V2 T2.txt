@@ -1,0 +1,49 @@
+const activities = [
+  {
+    "type": "text-block",
+    "heading": "Why God is Important",
+    "content": [
+      "Believing in God provides a sense of purpose and direction in life.", 
+      "It can provide comfort and peace during difficult times.", 
+      "It helps individuals to feel a connection to something greater than themselves."
+    ]
+  },
+  {
+    "type": "text-grid",
+    "heading": "The Benefits of a Belief in God",
+    "content": [
+      "Improved mental health", 
+      "Increased resilience and coping skills", 
+      "Greater sense of community", 
+      "Improved physical health", 
+      "Improved overall well-being"
+    ]
+  },
+  {
+    "type": "content-heading",
+    "heading": "The Role of God in Our Lives",
+    "content": [
+      "God provides guidance and support throughout our lives.",
+      "He helps us to make sense of the world around us.",
+      "God helps us to develop a moral code and live a purposeful life."
+    ]
+  },
+  {
+    "type": "text-block",
+    "heading": "Why God Matters",
+    "content": [
+      "Believing in God helps us to find meaning and purpose in life.", 
+      "It can give us a sense of comfort and security knowing that there is a higher power watching over us.", 
+      "God can provide us with a source of inspiration and motivation to be our best selves."
+    ]
+  },
+  {
+    "type": "content-heading",
+    "heading": "The Importance of a Relationship with God",
+    "content": [
+      "Developing a relationship with God can provide us with guidance and support throughout our lives.", 
+      "It can help us to better understand ourselves and our place in the world.", 
+      "Having a relationship with God can provide us with a sense of purpose and direction."
+    ]
+  }
+];
