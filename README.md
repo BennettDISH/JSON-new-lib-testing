@@ -1,10 +1,10 @@
 # JSON-new-lib-testing
  
-Send the prompt in the course builder text to chatGPT to generate multiple activities, all you need to specify is the topic.
+Send the prompt in the course builder.txt to chatGPT to generate multiple activities, all you need to specify is the topic.
 
 --or--
 
-Send the prompt in the course builder text to chatGPT in order to generate a single activity, you need to specify one of the three activities, and the topic. 
+Send the prompt in the activity builder.txt to chatGPT in order to generate a single activity, you need to specify one of the three activities, and the topic. 
 
 --for both--
 
